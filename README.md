@@ -60,6 +60,18 @@ Here are some of the technologies I'm proficient with:
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
