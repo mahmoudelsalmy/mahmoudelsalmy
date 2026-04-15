@@ -14,6 +14,7 @@
 <div align="center">
 
   <!-- Social Badges -->
+  <a href="https://mahmoudelsalmy-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/mahmoudelsalmy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
